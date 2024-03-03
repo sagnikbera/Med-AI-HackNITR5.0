@@ -110,3 +110,13 @@ Join us at Med-AI, where we redefine healthcare, making it accessible, personali
 
 - ❄️snowball: - Integrates stemming algorithms, optimizing text analysis for improved chatbot interactions. 
   - 📊What we have used: Information Retrieval, Text Mining Algorithms, Text Filtering Algorithms, Search Engine Optimization (SEO) Tools
+
+# Working Prototype:
+
+![WhatsApp Image 2024-02-04 at 12 30 52 PM](https://github.com/sagnikbera/Med-AI-HackNITR5.0/assets/123437008/317d29aa-ba7f-4151-881f-684d5869b88d)
+
+# Video Demonstration🎥:
+
+
+
+
