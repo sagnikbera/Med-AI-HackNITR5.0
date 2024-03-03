@@ -81,4 +81,32 @@ Join us at Med-AI, where we redefine healthcare, making it accessible, personali
 - 🌐Web2: - Frontend development using modern web technologies for an intuitive and responsive user interface. ✨
   - ✨What we have used: Web Application Development, Interactive Web Technologies
 
-- 🚀npm: - Package manager for JavaSc
+- 🚀npm: - Package manager for JavaScript to manage dependencies and streamline development workflows. 
+  - 📦What we have used: Node.js Ecosystem, JavaScript Package Management, Node.js Dependency Management
+
+- 🗣️natural: - A library for natural language processing, enhancing the chatbot's understanding of user input. 
+  - 🤖What we have used: Text Analysis and Processing, Natural Language Understanding, NLP Applications
+
+- 💻multer: - Middleware for handling file uploads, crucial for our prescription scanning feature. 
+  -📄 What we have used: Express File Upload, Node.js Form Data Handling, File Handling Middleware
+
+- 💬socket.io: - Real-time communication library facilitating instant engagement and emergency support. 
+  - 🔄What we have used: Real-Time Communication, WebSocket Integration, Event-Driven Web Applications
+
+- 📊mongoDB: - A NoSQL database for efficient and secure storage of user data. 
+  - 🔒What we have used: NoSQL Database Solutions, MongoDB Atlas (Cloud Database), Data Storage and Retrieval
+
+- ⚙️express js: - A robust web application framework for building APIs, ensuring seamless backend functionality. 
+  - 🌐What we have used: Node.js Web Framework, API Development with Express, Server-Side JavaScript
+
+- 🔍tesseract: - Optical character recognition tool, improving accuracy in prescription scanning. 
+  - 🖼️What we have used: OCR Integration, Image Text Extraction, Text Recognition Tools
+
+- 📈text gen: - Empowers dynamic content generation for the mental health tracking feature. 
+  - 🤯What we have used: Language Modeling, AI Text Generation, Creative Writing AI
+
+- 🎨handlebars: - Templating engine for rendering dynamic content and enhancing user experience.
+  - 🔄What we have used: JavaScript Templating, Dynamic HTML Rendering, Express.js View Engine
+
+- ❄️snowball: - Integrates stemming algorithms, optimizing text analysis for improved chatbot interactions. 
+  - 📊What we have used: Information Retrieval, Text Mining Algorithms, Text Filtering Algorithms, Search Engine Optimization (SEO) Tools
